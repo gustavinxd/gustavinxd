@@ -18,7 +18,7 @@ Apaixonado por tecnologia, estou atualmente cursando o último semestre de Desen
     <img align="center" alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
 </div><br>
 
-![snake gif](https://github.com/gustavinxd/gustavinxd/blob/output/github-contribution-grid-snake.gif)
+![Snake animation](https://github.com/gustavinxd/gustavinxd/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 **gustavinxd/gustavinxd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
