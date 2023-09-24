@@ -2,7 +2,7 @@
 
 Apaixonado por tecnologia, estou atualmente cursando o último semestre de Desenvolvimento de Sistemas na instituição Senai Suiço Brasileiro. Estudando tecnologias como React, React Native, Javascript e C#. 🔭
 
-[![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/gustavo-benjamin)
+[![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-benjamin/)
 
 ![gustavinxd GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavinxd&show_icons=true&theme=transparent)
 
