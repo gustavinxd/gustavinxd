@@ -20,3 +20,4 @@ Apaixonado por tecnologia, estou atualmente cursando o último semestre de Desen
 
 ##
 
+![Snake animation](https://github.com/gustavinxd/gustavinxd/blob/output/github-contribution-grid-snake.svg)
