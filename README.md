@@ -1,4 +1,4 @@
-# Opa iae! Eu sou o Gustavo Benjamin 😄
+# Opa eai! Eu sou o Gustavo Benjamin 😄
 
 Apaixonado por tecnologia, estou atualmente cursando o último semestre de Desenvolvimento de Sistemas na instituição Senai Suiço Brasileiro. Estudando tecnologias como React, React Native, Javascript e C#. 🔭
 
