@@ -1,6 +1,6 @@
 # Opa eai! Eu sou o Gustavo Benjamin 😄
 
-Apaixonado por tecnologia, estou atualmente cursando o último semestre de Desenvolvimento de Sistemas na instituição Senai Suiço Brasileiro. Estudando tecnologias como React, React Native, Javascript e C#. 🔭
+Apaixonado por tecnologia, sou formado no curso técnico de formação profissonal em Desenvolvimento de Sistemas na instituição Senai Suiço Brasileiro. Atualmente procuro minha primeira oportunidade de emprego na área de TI enquanto estudo e aprimoro minhas habilidades com tecnologias como React, React Native, Javascript, Python e SQL. 🔭
 
 [![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-benjamin/)
 
