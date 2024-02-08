@@ -1,6 +1,6 @@
 # Opa eai! Eu sou o Gustavo Benjamin 😄
 
-Apaixonado por tecnologia, sou formado no curso técnico de formação profissonal em Desenvolvimento de Sistemas na instituição Senai Suiço Brasileiro. Atualmente procuro minha primeira oportunidade de emprego na área de TI enquanto estudo e aprimoro minhas habilidades com tecnologias como React, React Native, Javascript, Python e SQL. 🔭
+Apaixonado por tecnologia, sou formado no curso técnico de formação profissonal em Desenvolvimento de Sistemas na instituição Senai Suiço Brasileiro. Atualmente estou cursando superior em Ciência de Dados na Escola SENAI de informática, procuro oportunidade de emprego na área de TI enquanto estudo e aprimoro minhas habilidades com tecnologias como NextJs, React Native, Javascript, Python e SQL. 🔭
 
 [![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-benjamin/)
 
@@ -15,7 +15,7 @@ Apaixonado por tecnologia, sou formado no curso técnico de formação profisson
     <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
     <img align="center" alt="reactnative" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
     <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
-    <img align="center" alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+    <img align="center" alt="python" src="https://img.shields.io/badge/PYTHON-14354C?style=for-the-badge&logo=python&logoColor=white"/>
 </div><br>
 
 ##
